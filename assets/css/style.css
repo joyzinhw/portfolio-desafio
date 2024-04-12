@@ -333,7 +333,7 @@ p {
     transform: translate(-50%, -50%);
 }
 
-.rodape h3 {
+.rodape h2 {
     color: #000000;
     font-family: "Retro Gaming";
     font-size: 0;
@@ -369,7 +369,7 @@ p {
     transform: scale(0) rotate(360deg);
 }
 
-.rodape :hover h3 {
+.rodape :hover h2 {
     font-size: 0.7em !important;
     text-align: center;
     margin-right: 18px;
