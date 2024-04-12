@@ -4,7 +4,7 @@ Para o portfólio, foi concebida uma abordagem interativa, aproveitando a teoria
 
 ## **Hierarquia Visual:**
 
-A hierarquia visual é estabelecida principalmente pelo código HTML e CSS. Elementos de maior importância, como cabeçalhos e seções principais, têm estilos mais destacados e são posicionados proeminentemente na página. Os seletores CSS organizam essa hierarquia, garantindo uma apresentação clara e ordenada do conteúdo.**
+A hierarquia visual é estabelecida principalmente pelo código HTML e CSS. Elementos de maior importância, como cabeçalhos e seções principais, têm estilos mais destacados e são posicionados proeminentemente na página. Os seletores CSS organizam essa hierarquia, garantindo uma apresentação clara e ordenada do conteúdo.
 
 ## ******Grids e Sistemas de Layout:******
 
