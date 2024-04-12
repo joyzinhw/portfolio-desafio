@@ -9,7 +9,7 @@
 
 body {
     background-color: #5c6ba2;
-    color: #7096dc;
+    color: #fff;
     font-family: "Retro Gaming";
     margin: 0;
     padding: 0;
@@ -107,7 +107,9 @@ nav .navlinks li{
     align-items: center;
     height: 20vh;
 }
-
+.terminal-title{
+  color: #7096dc;
+}
 .terminal {
     border: 1px solid #000000;
     border-radius: 5px;
@@ -133,7 +135,9 @@ nav .navlinks li{
     justify-content: center;
 }
 
-
+.rs {
+  color: #000000;
+}
 .terminal-header-top {
     background-color: #ffffff;
     border-radius: 5px 5px 0 0;
